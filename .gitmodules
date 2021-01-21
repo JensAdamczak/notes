@@ -1,0 +1,3 @@
+[submodule "themes/snippets"]
+	path = themes/snippets
+	url = https://github.com/JensAdamczak/hugo-snippets.git

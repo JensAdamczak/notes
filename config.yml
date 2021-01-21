@@ -1,0 +1,20 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Site title"
+theme: "snippets"
+taxonomies:
+  book: books
+  article: articles
+  snippet: snippets
+menu:
+  main:
+    - identifier: "About"
+      name: "About"
+      url: "/about/"
+    - identifier: "archive"
+      name: "Archive"
+      url: "/archive/"
+markup:
+  highlight:
+    style: github 
+paginate: 3
