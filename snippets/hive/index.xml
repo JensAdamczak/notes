@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hive on Notes</title>
-    <link>https://github.com/JensAdamczak/notes/snippets/hive/</link>
+    <link>https://jensadamczak.github.io/notes/snippets/hive/</link>
     <description>Recent content in Hive on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jan 2019 16:36:41 +0100</lastBuildDate><atom:link href="https://github.com/JensAdamczak/notes/snippets/hive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jan 2019 16:36:41 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/snippets/hive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hive function</title>
-      <link>https://github.com/JensAdamczak/notes/posts/hive_function/</link>
+      <link>https://jensadamczak.github.io/notes/posts/hive_function/</link>
       <pubDate>Mon, 07 Jan 2019 16:36:41 +0100</pubDate>
       
-      <guid>https://github.com/JensAdamczak/notes/posts/hive_function/</guid>
+      <guid>https://jensadamczak.github.io/notes/posts/hive_function/</guid>
       <description>Second post goes here.</description>
     </item>
     

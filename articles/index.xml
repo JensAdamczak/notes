@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Notes</title>
-    <link>https://github.com/JensAdamczak/notes/articles/</link>
+    <link>https://jensadamczak.github.io/notes/articles/</link>
     <description>Recent content in Articles on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://github.com/JensAdamczak/notes/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
-      <link>https://github.com/JensAdamczak/notes/articles/python/</link>
+      <link>https://jensadamczak.github.io/notes/articles/python/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>https://github.com/JensAdamczak/notes/articles/python/</guid>
+      <guid>https://jensadamczak.github.io/notes/articles/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://github.com/JensAdamczak/notes/articles/r/</link>
+      <link>https://jensadamczak.github.io/notes/articles/r/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>https://github.com/JensAdamczak/notes/articles/r/</guid>
+      <guid>https://jensadamczak.github.io/notes/articles/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stats</title>
-      <link>https://github.com/JensAdamczak/notes/articles/stats/</link>
+      <link>https://jensadamczak.github.io/notes/articles/stats/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>https://github.com/JensAdamczak/notes/articles/stats/</guid>
+      <guid>https://jensadamczak.github.io/notes/articles/stats/</guid>
       <description></description>
     </item>
     
