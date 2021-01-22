@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Site title</title>
-    <link>http://example.org/books/</link>
+    <link>https://github.com/JensAdamczak/notes/books/</link>
     <description>Recent content in Books on Site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="http://example.org/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://github.com/JensAdamczak/notes/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>http://example.org/books/r/</link>
+      <link>https://github.com/JensAdamczak/notes/books/r/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>http://example.org/books/r/</guid>
+      <guid>https://github.com/JensAdamczak/notes/books/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stats</title>
-      <link>http://example.org/books/stats/</link>
+      <link>https://github.com/JensAdamczak/notes/books/stats/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>http://example.org/books/stats/</guid>
+      <guid>https://github.com/JensAdamczak/notes/books/stats/</guid>
       <description></description>
     </item>
     

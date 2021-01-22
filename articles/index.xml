@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Site title</title>
-    <link>http://example.org/articles/</link>
+    <link>https://github.com/JensAdamczak/notes/articles/</link>
     <description>Recent content in Articles on Site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="http://example.org/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://github.com/JensAdamczak/notes/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
-      <link>http://example.org/articles/python/</link>
+      <link>https://github.com/JensAdamczak/notes/articles/python/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>http://example.org/articles/python/</guid>
+      <guid>https://github.com/JensAdamczak/notes/articles/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>http://example.org/articles/r/</link>
+      <link>https://github.com/JensAdamczak/notes/articles/r/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>http://example.org/articles/r/</guid>
+      <guid>https://github.com/JensAdamczak/notes/articles/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stats</title>
-      <link>http://example.org/articles/stats/</link>
+      <link>https://github.com/JensAdamczak/notes/articles/stats/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>http://example.org/articles/stats/</guid>
+      <guid>https://github.com/JensAdamczak/notes/articles/stats/</guid>
       <description></description>
     </item>
     

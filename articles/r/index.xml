@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Site title</title>
-    <link>http://example.org/articles/r/</link>
+    <link>https://github.com/JensAdamczak/notes/articles/r/</link>
     <description>Recent content in R on Site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="http://example.org/articles/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://github.com/JensAdamczak/notes/articles/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book review</title>
-      <link>http://example.org/posts/book_review/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/book_review/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>http://example.org/posts/book_review/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/book_review/</guid>
       <description>Fourth post goes here.
 With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed.</description>
     </item>
     
     <item>
       <title>R article</title>
-      <link>http://example.org/posts/article_r/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/article_r/</link>
       <pubDate>Tue, 07 Jan 2020 16:47:23 +0100</pubDate>
       
-      <guid>http://example.org/posts/article_r/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/article_r/</guid>
       <description>Advanced R 3rd post goes here. With some text to see how headers are rendered.
 Details In particular the different font-size is of interest.</description>
     </item>

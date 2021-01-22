@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site title</title>
-    <link>http://example.org/</link>
+    <link>https://github.com/JensAdamczak/notes/</link>
     <description>Recent content on Site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2021 22:37:45 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 22:37:45 +0100</lastBuildDate><atom:link href="https://github.com/JensAdamczak/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python small note</title>
-      <link>http://example.org/posts/python_small_note/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/python_small_note/</link>
       <pubDate>Wed, 20 Jan 2021 22:37:45 +0100</pubDate>
       
-      <guid>http://example.org/posts/python_small_note/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/python_small_note/</guid>
       <description>Might note contain code at all.</description>
     </item>
     
     <item>
       <title>Python script</title>
-      <link>http://example.org/posts/python_script/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/python_script/</link>
       <pubDate>Wed, 20 Jan 2021 22:37:37 +0100</pubDate>
       
-      <guid>http://example.org/posts/python_script/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/python_script/</guid>
       <description>Let&amp;rsquo;s write something here. In particular a long formula to test the line wrapping.
 def test_func(x, y, z): &amp;#39;&amp;#39;&amp;#39;A long comment line is starting this function of.&amp;#39;&amp;#39;&amp;#39; res = x**2 + y**2 + z**2 + x*y*z + 2*x + 2*y + 2*z return res </description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>http://example.org/archive/</link>
+      <link>https://github.com/JensAdamczak/notes/archive/</link>
       <pubDate>Sat, 09 Jan 2021 18:26:38 +0100</pubDate>
       
-      <guid>http://example.org/archive/</guid>
+      <guid>https://github.com/JensAdamczak/notes/archive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://github.com/JensAdamczak/notes/about/</link>
       <pubDate>Sat, 09 Jan 2021 15:44:10 +0100</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://github.com/JensAdamczak/notes/about/</guid>
       <description>This site contains a collection of posts about online articles, books I&amp;rsquo;ve read and code snippets that I would like to reference.</description>
     </item>
     
     <item>
       <title>Book review</title>
-      <link>http://example.org/posts/book_review/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/book_review/</link>
       <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
       
-      <guid>http://example.org/posts/book_review/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/book_review/</guid>
       <description>Fourth post goes here.
 With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed. With a lot of text to check how it will be displayed.</description>
     </item>
     
     <item>
       <title>Python stats code</title>
-      <link>http://example.org/posts/code_python_stats/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/code_python_stats/</link>
       <pubDate>Thu, 07 Jan 2021 16:35:10 +0100</pubDate>
       
-      <guid>http://example.org/posts/code_python_stats/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/code_python_stats/</guid>
       <description>First post goes here. It&amp;rsquo;s about Python.
 def calc(x, y): &amp;#39;&amp;#39;&amp;#39;A simple function&amp;#39;&amp;#39;&amp;#39; z = x + y return z </description>
     </item>
     
     <item>
       <title>R article</title>
-      <link>http://example.org/posts/article_r/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/article_r/</link>
       <pubDate>Tue, 07 Jan 2020 16:47:23 +0100</pubDate>
       
-      <guid>http://example.org/posts/article_r/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/article_r/</guid>
       <description>Advanced R 3rd post goes here. With some text to see how headers are rendered.
 Details In particular the different font-size is of interest.</description>
     </item>
     
     <item>
       <title>Old post about R</title>
-      <link>http://example.org/posts/old_post_r/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/old_post_r/</link>
       <pubDate>Thu, 17 Jan 2019 11:27:56 +0100</pubDate>
       
-      <guid>http://example.org/posts/old_post_r/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/old_post_r/</guid>
       <description>Let&amp;rsquo;s write some code snippet here for future reference.
 calc_conf_interval &amp;lt;- function(p, n) { ci_var &amp;lt;- p * (1 - p) ci_high &amp;lt;- p + 1.96 * sqrt(ci_var / n) ci_low &amp;lt;- p - 1.96 * sqrt(ci_var / n) list(ci_low = ci_low, ci_high = ci_high) } ctr_high = calc_conf_interval(ctr, n)$ci_high </description>
     </item>
     
     <item>
       <title>Hive function</title>
-      <link>http://example.org/posts/hive_function/</link>
+      <link>https://github.com/JensAdamczak/notes/posts/hive_function/</link>
       <pubDate>Mon, 07 Jan 2019 16:36:41 +0100</pubDate>
       
-      <guid>http://example.org/posts/hive_function/</guid>
+      <guid>https://github.com/JensAdamczak/notes/posts/hive_function/</guid>
       <description>Second post goes here.</description>
     </item>
     
