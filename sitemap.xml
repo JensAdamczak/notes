@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/snippets/python/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/python_small_note/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/snippets/</loc>
+    <lastmod>2021-01-20T22:37:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/python_script/</loc>
+    <lastmod>2021-01-20T22:37:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/archive/</loc>
+    <lastmod>2021-01-09T18:26:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2021-01-09T15:44:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/book_review/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/books/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/python/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/books/r/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/r/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/books/stats/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/articles/stats/</loc>
+    <lastmod>2021-01-07T18:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/code_python_stats/</loc>
+    <lastmod>2021-01-07T16:35:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/snippets/stats/</loc>
+    <lastmod>2021-01-07T16:35:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/article_r/</loc>
+    <lastmod>2020-01-07T16:47:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/old_post_r/</loc>
+    <lastmod>2019-01-17T11:27:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/snippets/r/</loc>
+    <lastmod>2019-01-17T11:27:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/snippets/hive/</loc>
+    <lastmod>2019-01-07T16:36:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/hive_function/</loc>
+    <lastmod>2019-01-07T16:36:41+01:00</lastmod>
+  </url>
+  
+</urlset>
