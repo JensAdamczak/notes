@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Site title</title>
+    <title>Python on Notes</title>
     <link>https://github.com/JensAdamczak/notes/articles/python/</link>
-    <description>Recent content in Python on Site title</description>
+    <description>Recent content in Python on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://github.com/JensAdamczak/notes/articles/python/index.xml" rel="self" type="application/rss+xml" />
