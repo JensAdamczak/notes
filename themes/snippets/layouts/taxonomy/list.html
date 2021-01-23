@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{/* Deduplicate pages in cases they contain multiple tags */}} 
+{{ $pages := slice }}
+{{ range .Pages }}
+{{ $pages = union $pages .Pages }} 
+{{ end }}
+
+{{ $paginator := .Paginate $pages }}
+{{ range $paginator.Pages }}
+<article class="post post--no-margin">
+  <h1 class="title title--link">
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </h1>
+  <section>
+    {{ .Content }}
+  </section>
+</article>
+{{ end }}
+
+{{- if gt $paginator.TotalPages 1 }}
+{{ partial "pagination.html" $paginator }}
+{{ end }}
+
+{{ end }}

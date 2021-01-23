@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<article>
+  <h1>{{ .Title }}</h1>
+  <div>{{ .Content }}</div>
+</article>
+
+<article class="post">
+  {{ $poststotal := len ($.Site.GetPage "posts").Pages }}
+  <h1 class="title-link">Total: <a href="{{ ($.Site.GetPage "posts").Permalink }}">{{ $poststotal }}</a></h1>
+</article>
+
+{{ range $taxname, $tax := .Site.Taxonomies }}
+{{ $poststax := len (where $.Site.RegularPages (print "Params" "." $taxname) "ne" nil) }}
+<article class="post">
+  <h1>{{ $taxname | humanize }}</h1>
+  <section>
+    <h1 class="title--link title--listing">
+      <a href="{{ ($.Site.GetPage $taxname).Permalink }}">All</a>: {{ $poststax }}
+    </h1>
+  </section>
+  {{ range $Key, $taxonomy := $tax }}
+    <section>
+      <div class="title--listing">
+        <a class="tag"  href="{{ .Page.Permalink }}">{{ $Key | humanize }}</a>: {{ len $taxonomy }}
+      </div>
+    </section>
+  {{ end }}
+</article>
+{{ end }}
+
+{{ end }}

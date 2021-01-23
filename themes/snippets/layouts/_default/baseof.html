@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Styles -->
+    <link href="{{ "style.css" | absURL }}" rel="stylesheet">
+    <link href="{{ "custom.css" | absURL }}" rel="stylesheet">
+  </head>
+    <body>
+    <header class="header-bar">
+      <nav class="site-nav">
+        <p class="site-nav__logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></p>
+        {{- if .Site.Menus.main }}
+        <ul class="site-nav__menu">
+          {{- range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{- end }}
+        </ul>
+        {{- end }}
+      </nav>
+    </header>
+    <main class="site-main">
+    {{ block "main" . }}
+    {{ end }}
+    </main>
+    <footer class="footer">
+      <span>&copy; {{ now.Year }} <a href="{{ "" | absURL }}">{{ .Site.Title }}</a></span>
+      <span>&middot;</span>
+      <span>
+          Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️
+      </span>
+      <span>&middot;</span>
+      <span>
+          Theme <a href="https://github.com/jensadamczak/hugo-snippets" rel="noopener" target="_blank">Snippets</a>
+      </span>
+    </footer>
+    </body>
+</html>

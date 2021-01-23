@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+{{ $pages := (where .Site.RegularPages ".Type" "eq" "posts") }}
+{{ range $pages.GroupByPublishDate "2006" }}
+{{ $nposts := len .Pages }}
+<article class="post">
+  <h1 class="title--listing">{{ .Key }}: {{ $nposts }}</h1>
+  {{ range .Pages }}  
+  <section>
+    <h1 class="title title--link title--listing">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h1>
+  </section>
+  {{ end }}  
+</article>
+{{ end }}
+
+{{ end }}

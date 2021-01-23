@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ $paginator := .Paginate (where .Site.RegularPages ".Type" "eq" "posts") }}
+{{ range $paginator.Pages }}
+<article class="post post--clickable">
+  <h1 class="title">{{ .Title }}</h1>
+  <section>
+    <p>{{ .Summary | plainify | htmlUnescape }}...</p>
+  </section>
+  <div class="subtitle">
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+  </div>
+  <a class="post-link" href="{{ .Permalink }}"></a>
+</article>
+{{ end }}
+
+{{ partial "pagination.html" $paginator }}
+
+{{ end }}

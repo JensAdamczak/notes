@@ -1,0 +1,25 @@
+{{ if gt .TotalPages 1 }}
+
+<footer class="pagination">
+  <nav>
+    <ul class="pagination__menu">
+      <li> <a href="{{ .First.URL }}">{{ i18n "first_page" }}</a></li>
+      <li>{{- if .HasPrev }}
+          <a href="{{ .Prev.URL }}">{{ i18n "prev_page" }}</a>
+          {{ else }}
+          {{ i18n "prev_page" }}
+          {{ end }}
+      </li>
+      <li>{{ .PageNumber }}</li>
+      <li>{{ if .HasNext }}
+          <a href="{{ .Next.URL }}">{{ i18n "next_page" }}</a>
+          {{ else }}
+          {{ i18n "next_page" }}
+          {{ end }}
+      </li>
+      <li><a href="{{ .Last.URL }}">{{ i18n "last_page"}}</a></li>
+    </ul>
+  </nav>
+</footer>
+
+{{ end }}

@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ .Scratch.Set "avail" false }}
+{{ $scope := . }}
+
+{{/* Check if any taxonomies are defined */}}
+{{ range $taxname, $tax := .Site.Taxonomies }}
+{{ $scope.Scratch.Set "avail" (or ($scope.Scratch.Get "avail") (isset $scope.Params $taxname)) }}
+{{ end }}
+
+<article class="post">
+  <h1 class="title title--big">{{ .Title }}</h1>
+  <div class="subtitle subtitle--space">
+      {{- .Date.Format "January 2, 2006" -}}
+  </div>
+  <section>
+    {{ .Content }}
+  </section>
+  {{- if .Scratch.Get "avail" }}
+  <footer class="tag-list">
+    <ul>
+      {{ range $taxname, $tax := .Site.Taxonomies }}
+      {{ if isset $scope.Params $taxname }}
+      {{ range $tag := index $scope.Params $taxname }}
+      {{ $href := print (absURL (printf "%s/" $taxname)) (urlize .) }}
+      <li><a class="tag" href="{{ $href }}">{{ $taxname }}:{{ $tag }}</a></li>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+    </ul>
+  </footer>
+  {{- end }}
+</article>
+
+{{ end }}

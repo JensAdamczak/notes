@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ $paginator := .Paginate .Pages }}
+{{ range $paginator.Pages }}
+<article class="post post--no-margin">
+  <h1 class="title title--link">
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </h1>
+  <section>
+    {{ .Content }}
+  </section>
+</article>
+{{ end }}
+
+{{- if gt $paginator.TotalPages 1 }}
+{{ partial "pagination.html" $paginator }}
+{{ end }}
+
+{{ end }}
