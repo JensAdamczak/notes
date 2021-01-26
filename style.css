@@ -47,14 +47,19 @@ section {
   display: block;
 }
 
-h1,
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--color-1);
+}
+
 h2,
 h3,
 h4,
 h5,
 h6 {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 1rem;
+  margin-bottom: 0.1rem;
   color: var(--color-1);
 }
 
@@ -76,6 +81,10 @@ ul {
 a {
   color: var(--color-2);
   text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-3);
 }
 
 figure {
@@ -266,6 +275,10 @@ code {
   background: var(--base-color);
   border-radius: 0.2rem;
   font-size: inherit;
+}
+
+.post p {
+  margin-bottom: calc(1.5 * 16px);
 }
 
 .post--no-margin {

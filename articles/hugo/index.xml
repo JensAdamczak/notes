@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Notes</title>
-    <link>https://jensadamczak.github.io/notes/posts/</link>
-    <description>Recent content in Posts on Notes</description>
+    <title>Hugo on Notes</title>
+    <link>https://jensadamczak.github.io/notes/articles/hugo/</link>
+    <description>Recent content in Hugo on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 23:02:17 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 23:02:17 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/articles/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Website with Hugo</title>
       <link>https://jensadamczak.github.io/notes/posts/article_building_hugo_website/</link>

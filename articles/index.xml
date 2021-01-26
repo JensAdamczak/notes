@@ -6,31 +6,22 @@
     <description>Recent content in Articles on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 18:36:23 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 23:02:17 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Python</title>
-      <link>https://jensadamczak.github.io/notes/articles/python/</link>
-      <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
+      <title>Hugo</title>
+      <link>https://jensadamczak.github.io/notes/articles/hugo/</link>
+      <pubDate>Sun, 24 Jan 2021 23:02:17 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/notes/articles/python/</guid>
+      <guid>https://jensadamczak.github.io/notes/articles/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://jensadamczak.github.io/notes/articles/r/</link>
-      <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
+      <title>Website</title>
+      <link>https://jensadamczak.github.io/notes/articles/website/</link>
+      <pubDate>Sun, 24 Jan 2021 23:02:17 +0100</pubDate>
       
-      <guid>https://jensadamczak.github.io/notes/articles/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stats</title>
-      <link>https://jensadamczak.github.io/notes/articles/stats/</link>
-      <pubDate>Thu, 07 Jan 2021 18:36:23 +0100</pubDate>
-      
-      <guid>https://jensadamczak.github.io/notes/articles/stats/</guid>
+      <guid>https://jensadamczak.github.io/notes/articles/website/</guid>
       <description></description>
     </item>
     
