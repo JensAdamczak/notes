@@ -17,4 +17,7 @@ menu:
 markup:
   highlight:
     style: github 
-paginate: 3
+  goldmark:
+    renderer:
+      unsafe: true
+paginate: 10

@@ -6,4 +6,6 @@ draft: false
 ---
 
 This site contains a collection of posts about online articles, books I've read and code snippets
-that I would like to reference.
+that I would like to keep for future reference.
+
+Currently the following topics are covered.
