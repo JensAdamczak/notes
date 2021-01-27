@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colors on Notes</title>
+    <link>https://jensadamczak.github.io/notes/articles/colors/</link>
+    <description>Recent content in Colors on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jan 2021 14:00:48 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/articles/colors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Color palettes</title>
+      <link>https://jensadamczak.github.io/notes/posts/article_color_palettes/</link>
+      <pubDate>Wed, 27 Jan 2021 14:00:48 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/article_color_palettes/</guid>
+      <description>digitalsynopsis/beautiful-color-paletts
+A selection of 36 color palettes for web design or other projects. Useful to find matching colors for a consistent overall appearance.
+This website uses the Water Bearer palette (#25).
+#5e5656 #58668b #76b4bd #bdeaee #ebf4f6</description>
+    </item>
+    
+  </channel>
+</rss>

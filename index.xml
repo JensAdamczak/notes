@@ -6,7 +6,19 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 23:02:17 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 14:00:48 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Color palettes</title>
+      <link>https://jensadamczak.github.io/notes/posts/article_color_palettes/</link>
+      <pubDate>Wed, 27 Jan 2021 14:00:48 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/article_color_palettes/</guid>
+      <description>digitalsynopsis/beautiful-color-paletts
+A selection of 36 color palettes for web design or other projects. Useful to find matching colors for a consistent overall appearance.
+This website uses the Water Bearer palette (#25).
+#5e5656 #58668b #76b4bd #bdeaee #ebf4f6</description>
+    </item>
+    
     <item>
       <title>Building a Website with Hugo</title>
       <link>https://jensadamczak.github.io/notes/posts/article_building_hugo_website/</link>
