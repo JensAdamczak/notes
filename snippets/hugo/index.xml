@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Notes</title>
+    <link>https://jensadamczak.github.io/notes/snippets/hugo/</link>
+    <description>Recent content in Hugo on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jan 2021 13:51:05 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/snippets/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo: posts and terms per taxonomy</title>
+      <link>https://jensadamczak.github.io/notes/posts/snippet_hugo_taxonomy_count/</link>
+      <pubDate>Sat, 30 Jan 2021 13:51:05 +0100</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/snippet_hugo_taxonomy_count/</guid>
+      <description>Counting the number of posts and different terms per taxonomy in Hugo requires looping through all taxonomies.
+{{ range $taxname, $tax := .Site.Taxonomies }} {{ $nposts := len (where $.Site.RegularPages (print &amp;#34;Params&amp;#34; &amp;#34;.&amp;#34; $taxname) &amp;#34;ne&amp;#34; nil) }} {{ $nterms := len $tax }} {{ $posttext := cond (gt $nposts 1) &amp;#34;posts&amp;#34; &amp;#34;post&amp;#34; }} {{ $termtext := cond (gt $nterms 1) &amp;#34;terms&amp;#34; &amp;#34;term&amp;#34; }} {{ $taxname }}: {{ $nposts }} {{ $posttext }} and {{ $nterms }} search {{ $termtext }}.</description>
+    </item>
+    
+  </channel>
+</rss>

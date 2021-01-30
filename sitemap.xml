@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jensadamczak.github.io/notes/snippets/hugo/</loc>
+    <lastmod>2021-01-30T13:51:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/posts/snippet_hugo_taxonomy_count/</loc>
+    <lastmod>2021-01-30T13:51:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/</loc>
+    <lastmod>2021-01-30T13:51:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/posts/</loc>
+    <lastmod>2021-01-30T13:51:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/snippets/</loc>
+    <lastmod>2021-01-30T13:51:05+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jensadamczak.github.io/notes/articles/</loc>
     <lastmod>2021-01-27T14:00:48+01:00</lastmod>
   </url>
@@ -14,16 +39,6 @@
   
   <url>
     <loc>https://jensadamczak.github.io/notes/articles/colors/</loc>
-    <lastmod>2021-01-27T14:00:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/</loc>
-    <lastmod>2021-01-27T14:00:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/posts/</loc>
     <lastmod>2021-01-27T14:00:48+01:00</lastmod>
   </url>
   
@@ -54,10 +69,6 @@
   
   <url>
     <loc>https://jensadamczak.github.io/notes/books/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/snippets/</loc>
   </url>
   
 </urlset>
