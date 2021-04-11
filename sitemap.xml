@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jensadamczak.github.io/notes/posts/book_brief_history_everyone/</loc>
+    <lastmod>2021-04-10T12:36:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/books/</loc>
+    <lastmod>2021-04-10T12:36:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/books/genetics/</loc>
+    <lastmod>2021-04-10T12:36:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/</loc>
+    <lastmod>2021-04-10T12:36:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/posts/</loc>
+    <lastmod>2021-04-10T12:36:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/books/science/</loc>
+    <lastmod>2021-04-10T12:36:36-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jensadamczak.github.io/notes/snippets/hugo/</loc>
     <lastmod>2021-01-30T13:51:05+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jensadamczak.github.io/notes/posts/snippet_hugo_taxonomy_count/</loc>
-    <lastmod>2021-01-30T13:51:05+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/</loc>
-    <lastmod>2021-01-30T13:51:05+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/posts/</loc>
     <lastmod>2021-01-30T13:51:05+01:00</lastmod>
   </url>
   
@@ -65,10 +85,6 @@
   <url>
     <loc>https://jensadamczak.github.io/notes/about/</loc>
     <lastmod>2021-01-09T15:44:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/books/</loc>
   </url>
   
 </urlset>

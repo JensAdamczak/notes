@@ -5,6 +5,25 @@
     <link>https://jensadamczak.github.io/notes/books/</link>
     <description>Recent content in Books on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jensadamczak.github.io/notes/books/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Apr 2021 12:36:36 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genetics</title>
+      <link>https://jensadamczak.github.io/notes/books/genetics/</link>
+      <pubDate>Sat, 10 Apr 2021 12:36:36 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/books/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://jensadamczak.github.io/notes/books/science/</link>
+      <pubDate>Sat, 10 Apr 2021 12:36:36 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/books/science/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

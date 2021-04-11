@@ -6,7 +6,19 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jan 2021 13:51:05 +0100</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 12:36:36 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A brief history of everyone who ever lived</title>
+      <link>https://jensadamczak.github.io/notes/posts/book_brief_history_everyone/</link>
+      <pubDate>Sat, 10 Apr 2021 12:36:36 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/book_brief_history_everyone/</guid>
+      <description>Author Adam Rutherford
+Summary A scientific view of the role that DNA plays in understanding human history, and what we can and cannot conclude when analyzing it.
+Takeaways Depicting our ancestry looks more like an entagled mesh than a tree. Everyone living today shares the same group of ancestors if we go back long enough in time.
+DNA influences observable characteristics in a probabilitic way. There are only a few genes that have a clear physical manifestation.</description>
+    </item>
+    
     <item>
       <title>Hugo: posts and terms per taxonomy</title>
       <link>https://jensadamczak.github.io/notes/posts/snippet_hugo_taxonomy_count/</link>
