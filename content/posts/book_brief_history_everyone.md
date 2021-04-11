@@ -23,6 +23,8 @@ DNA influences observable characteristics in a probabilitic way. There are only 
 
 ### Quotes
 
+*"It's important to remember that the commercial DNA ancestry tests don't necessarily show your geographical origins in the past. They show with whom you have common ancestry today."*
+
 *"The truth is that we all are a bit of everything, and we come from all over. Even if you live in the most remote parts of the Hebrides, or the edge of the Greek Aegean, we share an ancestor only a few hundred years ago. A thousand years ago, we Europeans share all of our ancestry. Triple that time and we share all our ancestry with everyone on Earth."*
 
 *"No one will ever find a gene for 'evil', or for beauty, or for musical genius, or for scientific genius, because they don't exist. DNA is not destiny. The presence of a particular variant of a particular gene may just have the effect of altering the odds of any particular behavior. More likely, the possession of many slight differences in many genes will have an effect on the likelihood of a particular characteristic, in consort with your environment, which includes all things that are not DNA."*
