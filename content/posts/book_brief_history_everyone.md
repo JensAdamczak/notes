@@ -5,7 +5,7 @@ books: ['Science', 'Genetics']
 draft: false 
 ---
 
-![A brief history of everyone who ever lived](/book_cover_brief_history_everyone.jpg)
+![A brief history of everyone who ever lived](/notes/book_cover_brief_history_everyone.jpg)
 
 ### Author
 
