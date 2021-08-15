@@ -19,7 +19,7 @@ The life and professional career of Jack Welch, Chairman of General Electric fro
 
 Leadership requires more than the knowledge to make sound business decisions. It is equally important to establish the right culture with a focus on people that allows for differentiation and development, and that empowers everyone to contribute ideas ("boundaryless").
 
-Being able to react to changes trumps a well thought out longterm strategy. Speed and decisiveness are important to remain competitive in changing circumstances even if not all decisions or judgment calls stand the test of time. The characterization of some associates who receive high praise in the book is one example that appears to not have aged well.
+Being able to react to changes trumps a well thought out longterm strategy. Speed and decisiveness are important to remain competitive in changing circumstances even if not all decisions or judgment calls stand the test of time. The characterization of some associates who receive high praise in the book but were later on criticized for their leadership (Jeff Immelt, Bob Nardelli) or general conduct (Roger Ailes, Matt Lauer), is one example that appears to not have aged well.
 
 ### Quotes
 
