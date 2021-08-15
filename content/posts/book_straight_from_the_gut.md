@@ -2,7 +2,7 @@
 title: "Straight from the gut"
 date: 2021-08-14T19:49:35-07:00
 books: ['Business', 'Management']
-draft: true
+draft: false 
 ---
 
 ![Straight from the gut](img/book_cover_straight_from_the_gut.jpg)
