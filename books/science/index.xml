@@ -6,7 +6,18 @@
     <description>Recent content in Science on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Aug 2021 10:26:49 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/books/science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 19:00:05 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/books/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weapons of math destruction</title>
+      <link>https://jensadamczak.github.io/notes/posts/book_weapons_of_math_destruction/</link>
+      <pubDate>Sat, 30 Oct 2021 19:00:05 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/book_weapons_of_math_destruction/</guid>
+      <description>Author Cathy O&amp;rsquo;Neil
+Summary A warning of the destructive power of black-box algorithms that govern our lives.
+Takeaways Algorithms and mathematical models are ubiquitously applied and drive decisions in every aspect of our lives. They, for example, determine college admissions, calculate insurance fees, and determine the content in our social media feeds. Many of the algorithms are intransparent, making it impossible to understand and challenge the results. If there is no alignment between the objectives of the models and the interest of the modeled subjects and if there is no feedback loop to improve the model over time, these &amp;ldquo;weapons of math destruction (WMD)&amp;rdquo; can cause significant harm.</description>
+    </item>
+    
     <item>
       <title>Factfulness</title>
       <link>https://jensadamczak.github.io/notes/posts/book_factfulness/</link>
