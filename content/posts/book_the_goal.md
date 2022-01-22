@@ -13,6 +13,10 @@ Eliyahu M. Goldratt
 
 ### Summary
 
+The story of a plant manager who discovers the benefit of systematically assessing the processing bottlenecks instead of relying on conventional wisdom. 
+
+### Takeaways
+
 Instead of relying on conventional wisdom, it is crucial to deeply reflect on the goal of an operation or organization and take a scientific and systematic approach to explore the factors (bottlenecks or constraints) that prevent us from reaching it.
 
 The following process can serve as a blueprint to work towards achieving any goal.
