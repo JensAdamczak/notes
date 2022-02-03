@@ -31,8 +31,27 @@
 
  
 
+ 
 
 
+
+
+<article class="post post--no-margin">
+  <h1 class="title title--link">
+    <a href="https://jensadamczak.github.io/notes/posts/snippet_r_rank2score/">R: rank2score</a>
+  </h1>
+  <section>
+    <p>Converting a ranking into a set of normally distributed scores.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">rank2score <span style="color:#000;font-weight:bold">&lt;-</span> <span style="color:#900;font-weight:bold">function</span>(rank, n_total, mn <span style="color:#000;font-weight:bold">=</span> <span style="color:#099">0</span>, std <span style="color:#000;font-weight:bold">=</span> <span style="color:#099">1</span>, n_tied <span style="color:#000;font-weight:bold">=</span> <span style="color:#099">1</span>) {
+  <span style="color:#998;font-style:italic"># following the equal area method</span>
+  <span style="color:#998;font-style:italic"># http://node101.psych.cornell.edu/Darlington/transfrm.htm</span>
+  
+  mean_rank <span style="color:#000;font-weight:bold">&lt;-</span> rank <span style="color:#000;font-weight:bold">/</span> n_tied
+  <span style="color:#900;font-weight:bold">qnorm</span>(mean_rank <span style="color:#000;font-weight:bold">/</span> (n_total <span style="color:#000;font-weight:bold">+</span> <span style="color:#099">1</span>), mean <span style="color:#000;font-weight:bold">=</span> mn, sd <span style="color:#000;font-weight:bold">=</span> std)
+}
+</code></pre></div>
+  </section>
+</article>
 
 <article class="post post--no-margin">
   <h1 class="title title--link">

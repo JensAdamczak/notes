@@ -6,7 +6,17 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Dec 2021 13:32:50 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 21:49:04 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R: rank2score</title>
+      <link>https://jensadamczak.github.io/notes/posts/snippet_r_rank2score/</link>
+      <pubDate>Wed, 02 Feb 2022 21:49:04 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/snippet_r_rank2score/</guid>
+      <description>Converting a ranking into a set of normally distributed scores.
+rank2score &amp;lt;- function(rank, n_total, mn = 0, std = 1, n_tied = 1) { # following the equal area method # http://node101.psych.cornell.edu/Darlington/transfrm.htm mean_rank &amp;lt;- rank / n_tied qnorm(mean_rank / (n_total + 1), mean = mn, sd = std) } </description>
+    </item>
+    
     <item>
       <title>Extreme ownership</title>
       <link>https://jensadamczak.github.io/notes/posts/book_extreme_ownership/</link>
