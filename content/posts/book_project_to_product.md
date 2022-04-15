@@ -19,7 +19,7 @@ A practical guide to developing a product focussed management framework that all
 
 We are at the turning point of the digital revolution. Companies need to transform their business practices to effectively leverage software development and technology. Many companies realize the need for transformation but rely on management practices that are not adequate for the task.
 
-Products differ from projects in multiple ways. Projects have a longer life cycle and receive incremental funding based on business results. The direct mapping to business results enables transparency into the delivery progress and the impact a product has. The Flow Framework is a way to track and visualize the network of product value streams of an organization and identify bottlenecks that require attention.
+Products differ from projects in multiple ways. Products have a longer life cycle and receive incremental funding based on business results. The direct mapping to business results enables transparency into the delivery progress and the impact a product has. The Flow Framework is a way to track and visualize the network of product value streams of an organization and identify bottlenecks that require attention.
 
 ### Quotes
 
