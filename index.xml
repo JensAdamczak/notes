@@ -6,7 +6,18 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 May 2022 14:25:38 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 09:29:09 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nudge</title>
+      <link>https://jensadamczak.github.io/notes/posts/book_nudge/</link>
+      <pubDate>Mon, 01 Aug 2022 09:29:09 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/book_nudge/</guid>
+      <description>Author Richard H. Thaler, Cass R. Sunstein
+Summary Practical recommendations for how to design systems that support people in making the right choices.
+Takeaways The design of the environment in which choices have to be made (choice architecture) often greatly influences the results, e.g. the order of food items in a cafeteria or the order of options and default values on a website. The goal of designing choice architectures should be to nudge people to make a choice that best reflects their true intention.</description>
+    </item>
+    
     <item>
       <title>Made to stick</title>
       <link>https://jensadamczak.github.io/notes/posts/book_made_to_stick/</link>
