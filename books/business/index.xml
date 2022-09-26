@@ -6,7 +6,18 @@
     <description>Recent content in Business on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2022 09:29:09 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/books/business/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 16:58:05 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/books/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Data Science 2.0</title>
+      <link>https://jensadamczak.github.io/notes/posts/book_agile_data_science/</link>
+      <pubDate>Sun, 25 Sep 2022 16:58:05 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/book_agile_data_science/</guid>
+      <description>Author Russel Jurney
+Summary Instructions for a technical setup to iteratively develop practical Data Science applications.
+Takeaways Many Data Science applications fail because of a missing feedback loop between the Data Scientists developing the solutions and the business stakeholders and users. To avoid a disconnect, Data Scientists need to share work in progress frequently. Software development methodolodies like Scrum need to be adapted to account for the larger uncertainty of data exploration.</description>
+    </item>
+    
     <item>
       <title>Nudge</title>
       <link>https://jensadamczak.github.io/notes/posts/book_nudge/</link>
