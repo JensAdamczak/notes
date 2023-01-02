@@ -1,5 +1,5 @@
 ---
-title: "Agile Data Science 2.0"
+title: "Book: Agile Data Science 2.0"
 date: 2022-09-25T16:58:05-07:00
 books: ['Science', 'Business']
 draft: false 

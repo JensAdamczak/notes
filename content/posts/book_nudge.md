@@ -1,5 +1,5 @@
 ---
-title: "Nudge"
+title: "Book: Nudge"
 date: 2022-08-01T09:29:09-07:00
 books: ['Business', 'Science']
 draft: false 

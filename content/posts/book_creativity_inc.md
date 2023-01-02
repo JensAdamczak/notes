@@ -1,5 +1,5 @@
 ---
-title: "Creativity, Inc."
+title: "Book: Creativity, Inc."
 date: 2022-04-10T13:26:33-07:00
 books: ['Business', 'Management']
 draft: false 

@@ -1,5 +1,5 @@
 ---
-title: "The goal"
+title: "Book: The goal"
 date: 2021-11-11T16:27:50-08:00
 books: ['Science', 'Business', 'Management', 'Fiction']
 draft: false 

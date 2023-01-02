@@ -1,5 +1,5 @@
 ---
-title: "Extreme ownership"
+title: "Book: Extreme ownership"
 date: 2021-12-30T13:32:50-08:00
 books: ['Business', 'Management']
 draft: false 

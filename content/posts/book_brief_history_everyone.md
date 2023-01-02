@@ -1,5 +1,5 @@
 ---
-title: "A brief history of everyone who ever lived"
+title: "Book: A brief history of everyone who ever lived"
 date: 2021-04-10T12:36:36-07:00
 books: ['Science', 'Genetics']
 draft: false 

@@ -1,5 +1,5 @@
 ---
-title: "Straight from the gut"
+title: "Book: Straight from the gut"
 date: 2021-08-14T19:49:35-07:00
 books: ['Business', 'Management']
 draft: false 

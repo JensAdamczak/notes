@@ -1,5 +1,5 @@
 ---
-title: "21 things you may not know about the Indian Act"
+title: "Book: 21 things you may not know about the Indian Act"
 date: 2022-10-23T14:44:01-07:00
 books: ['History', 'Society']
 draft: false 

@@ -1,5 +1,5 @@
 ---
-title: "Weapons of math destruction"
+title: "Book: Weapons of math destruction"
 date: 2021-10-30T19:00:05-07:00
 books: ['Science', 'Business']
 draft: false 

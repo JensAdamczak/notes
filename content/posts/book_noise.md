@@ -1,5 +1,5 @@
 ---
-title: "Noise: A Flaw in Human Judgment"
+title: "Book: Noise: A Flaw in Human Judgment"
 date: 2022-11-19T10:26:27-08:00
 books: ['Business', 'Science']
 draft: false 
@@ -13,7 +13,7 @@ Daniel Kahneman, Olivier Sibony, Cass R. Sunstein
 
 ### Summary
 
-A summary of decision hygience practices to reduce noise in judgments.
+A summary of decision hygiene practices to reduce noise in judgments.
 
 ### Takeaways
 
