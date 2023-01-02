@@ -19,18 +19,18 @@ import sys sys.path.append(&amp;#39;/Users/username/project/src/&amp;#39;) impor
     </item>
     
     <item>
-      <title>Noise: A Flaw in Human Judgment</title>
+      <title>Book: Noise: A Flaw in Human Judgment</title>
       <link>https://jensadamczak.github.io/notes/posts/book_noise/</link>
       <pubDate>Sat, 19 Nov 2022 10:26:27 -0800</pubDate>
       
       <guid>https://jensadamczak.github.io/notes/posts/book_noise/</guid>
       <description>Author Daniel Kahneman, Olivier Sibony, Cass R. Sunstein
-Summary A summary of decision hygience practices to reduce noise in judgments.
+Summary A summary of decision hygiene practices to reduce noise in judgments.
 Takeaways Noise is ubiquitous in situations that require judgment and leads to unwanted and costly variability and unfairness in decisions. The reasons for noise in judgments are manifold. People have cognitive biases and a natural preference for causal thinking that finds comfort in finding coherent explanations even if the reality is more complex and less predictable.</description>
     </item>
     
     <item>
-      <title>21 things you may not know about the Indian Act</title>
+      <title>Book: 21 things you may not know about the Indian Act</title>
       <link>https://jensadamczak.github.io/notes/posts/book_indian_act/</link>
       <pubDate>Sun, 23 Oct 2022 14:44:01 -0700</pubDate>
       
@@ -41,7 +41,7 @@ Takeaways The Indian Act, passed in 1876, regulated and still regulates the live
     </item>
     
     <item>
-      <title>Agile Data Science 2.0</title>
+      <title>Book: Agile Data Science 2.0</title>
       <link>https://jensadamczak.github.io/notes/posts/book_agile_data_science/</link>
       <pubDate>Sun, 25 Sep 2022 16:58:05 -0700</pubDate>
       
@@ -52,7 +52,7 @@ Takeaways Many Data Science applications fail because of a missing feedback loop
     </item>
     
     <item>
-      <title>Nudge</title>
+      <title>Book: Nudge</title>
       <link>https://jensadamczak.github.io/notes/posts/book_nudge/</link>
       <pubDate>Mon, 01 Aug 2022 09:29:09 -0700</pubDate>
       
@@ -63,7 +63,7 @@ Takeaways The design of the environment in which choices have to be made (choice
     </item>
     
     <item>
-      <title>Made to stick</title>
+      <title>Book: Made to stick</title>
       <link>https://jensadamczak.github.io/notes/posts/book_made_to_stick/</link>
       <pubDate>Sun, 29 May 2022 14:25:38 -0700</pubDate>
       
@@ -74,7 +74,7 @@ Takeaways In order for ideas to stick with an audience they have to be framed as
     </item>
     
     <item>
-      <title>Creativity, Inc.</title>
+      <title>Book: Creativity, Inc.</title>
       <link>https://jensadamczak.github.io/notes/posts/book_creativity_inc/</link>
       <pubDate>Sun, 10 Apr 2022 13:26:33 -0700</pubDate>
       
@@ -95,7 +95,7 @@ rank2score &amp;lt;- function(rank, n_total, mn = 0, std = 1, n_tied = 1) { # fo
     </item>
     
     <item>
-      <title>Extreme ownership</title>
+      <title>Book: Extreme ownership</title>
       <link>https://jensadamczak.github.io/notes/posts/book_extreme_ownership/</link>
       <pubDate>Thu, 30 Dec 2021 13:32:50 -0800</pubDate>
       
@@ -106,7 +106,7 @@ Takeaways Successful leaders need to take ownership to the next level. &amp;ldqu
     </item>
     
     <item>
-      <title>The goal</title>
+      <title>Book: The goal</title>
       <link>https://jensadamczak.github.io/notes/posts/book_the_goal/</link>
       <pubDate>Thu, 11 Nov 2021 16:27:50 -0800</pubDate>
       
@@ -118,7 +118,7 @@ The following process can serve as a blueprint to work towards achieving any goa
     </item>
     
     <item>
-      <title>Weapons of math destruction</title>
+      <title>Book: Weapons of math destruction</title>
       <link>https://jensadamczak.github.io/notes/posts/book_weapons_of_math_destruction/</link>
       <pubDate>Sat, 30 Oct 2021 19:00:05 -0700</pubDate>
       
@@ -129,7 +129,7 @@ Takeaways Algorithms and mathematical models are ubiquitously applied and drive 
     </item>
     
     <item>
-      <title>Project to product</title>
+      <title>Book: Project to product</title>
       <link>https://jensadamczak.github.io/notes/posts/book_project_to_product/</link>
       <pubDate>Sun, 10 Oct 2021 12:29:42 -0700</pubDate>
       
@@ -141,7 +141,7 @@ Products differ from projects in multiple ways.</description>
     </item>
     
     <item>
-      <title>Mortal Engines</title>
+      <title>Book: Mortal Engines</title>
       <link>https://jensadamczak.github.io/notes/posts/book_mortal_engines/</link>
       <pubDate>Tue, 07 Sep 2021 20:11:38 -0700</pubDate>
       
@@ -153,7 +153,7 @@ Quotes &amp;ldquo;But he mustn&amp;rsquo;t feel sorry for them: it was natural t
     </item>
     
     <item>
-      <title>Zero to one</title>
+      <title>Book: Zero to one</title>
       <link>https://jensadamczak.github.io/notes/posts/book_zero_to_one/</link>
       <pubDate>Tue, 31 Aug 2021 21:01:39 -0700</pubDate>
       
@@ -164,7 +164,7 @@ Takeaways Competition is a concept that has a high value in our educational syst
     </item>
     
     <item>
-      <title>Factfulness</title>
+      <title>Book: Factfulness</title>
       <link>https://jensadamczak.github.io/notes/posts/book_factfulness/</link>
       <pubDate>Sun, 22 Aug 2021 10:26:49 -0700</pubDate>
       
@@ -175,7 +175,7 @@ Takeaways Knowledge of global patterns and trends is poor across demographics ev
     </item>
     
     <item>
-      <title>Straight from the gut</title>
+      <title>Book: Straight from the gut</title>
       <link>https://jensadamczak.github.io/notes/posts/book_straight_from_the_gut/</link>
       <pubDate>Sat, 14 Aug 2021 19:49:35 -0700</pubDate>
       
@@ -187,7 +187,7 @@ Being able to react to changes trumps a well thought out longterm strategy.</des
     </item>
     
     <item>
-      <title>A brief history of everyone who ever lived</title>
+      <title>Book: A brief history of everyone who ever lived</title>
       <link>https://jensadamczak.github.io/notes/posts/book_brief_history_everyone/</link>
       <pubDate>Sat, 10 Apr 2021 12:36:36 -0700</pubDate>
       

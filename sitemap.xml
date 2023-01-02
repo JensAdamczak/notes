@@ -28,17 +28,17 @@
   </url>
   
   <url>
+    <loc>https://jensadamczak.github.io/notes/posts/book_noise/</loc>
+    <lastmod>2022-11-19T10:26:27-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jensadamczak.github.io/notes/books/</loc>
     <lastmod>2022-11-19T10:26:27-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jensadamczak.github.io/notes/books/business/</loc>
-    <lastmod>2022-11-19T10:26:27-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/posts/book_noise/</loc>
     <lastmod>2022-11-19T10:26:27-08:00</lastmod>
   </url>
   
@@ -103,12 +103,12 @@
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/notes/books/fiction/</loc>
+    <loc>https://jensadamczak.github.io/notes/posts/book_the_goal/</loc>
     <lastmod>2021-11-11T16:27:50-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/notes/posts/book_the_goal/</loc>
+    <loc>https://jensadamczak.github.io/notes/books/fiction/</loc>
     <lastmod>2021-11-11T16:27:50-08:00</lastmod>
   </url>
   
@@ -123,18 +123,13 @@
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/notes/books/fantasy/</loc>
-    <lastmod>2021-09-07T20:11:38-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jensadamczak.github.io/notes/posts/book_mortal_engines/</loc>
     <lastmod>2021-09-07T20:11:38-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/notes/books/technology/</loc>
-    <lastmod>2021-08-31T21:01:39-07:00</lastmod>
+    <loc>https://jensadamczak.github.io/notes/books/fantasy/</loc>
+    <lastmod>2021-09-07T20:11:38-07:00</lastmod>
   </url>
   
   <url>
@@ -143,12 +138,17 @@
   </url>
   
   <url>
-    <loc>https://jensadamczak.github.io/notes/books/education/</loc>
-    <lastmod>2021-08-22T10:26:49-07:00</lastmod>
+    <loc>https://jensadamczak.github.io/notes/books/technology/</loc>
+    <lastmod>2021-08-31T21:01:39-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jensadamczak.github.io/notes/posts/book_factfulness/</loc>
+    <lastmod>2021-08-22T10:26:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/books/education/</loc>
     <lastmod>2021-08-22T10:26:49-07:00</lastmod>
   </url>
   
