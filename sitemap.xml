@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jensadamczak.github.io/notes/</loc>
+    <lastmod>2023-01-02T10:02:43-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/posts/</loc>
+    <lastmod>2023-01-02T10:02:43-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/snippets/python/</loc>
+    <lastmod>2023-01-02T10:02:43-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/posts/snippet_python_relative_import/</loc>
+    <lastmod>2023-01-02T10:02:43-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/snippets/</loc>
+    <lastmod>2023-01-02T10:02:43-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jensadamczak.github.io/notes/books/</loc>
     <lastmod>2022-11-19T10:26:27-08:00</lastmod>
   </url>
@@ -14,16 +39,6 @@
   
   <url>
     <loc>https://jensadamczak.github.io/notes/posts/book_noise/</loc>
-    <lastmod>2022-11-19T10:26:27-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/</loc>
-    <lastmod>2022-11-19T10:26:27-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/posts/</loc>
     <lastmod>2022-11-19T10:26:27-08:00</lastmod>
   </url>
   
@@ -79,11 +94,6 @@
   
   <url>
     <loc>https://jensadamczak.github.io/notes/posts/snippet_r_rank2score/</loc>
-    <lastmod>2022-02-02T21:49:04-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/snippets/</loc>
     <lastmod>2022-02-02T21:49:04-08:00</lastmod>
   </url>
   

@@ -33,8 +33,25 @@
 
  
 
+ 
 
 
+
+
+<article class="post post--no-margin">
+  <h1 class="title title--link">
+    <a href="https://jensadamczak.github.io/notes/posts/snippet_python_relative_import/">Python: relative import</a>
+  </h1>
+  <section>
+    <p>To test relative imports before installing a package, add the source code directory to the path.</p>
+<p>For example, import code from a file functions.py in src/mypackage/</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Python" data-lang="Python"><span style="color:#000;font-weight:bold">import</span> <span style="color:#555">sys</span>
+sys<span style="color:#000;font-weight:bold">.</span>path<span style="color:#000;font-weight:bold">.</span>append(<span style="color:#d14">&#39;/Users/username/project/src/&#39;</span>)
+
+<span style="color:#000;font-weight:bold">import</span> <span style="color:#555">mypackage.functions</span> <span style="color:#000;font-weight:bold">as</span> <span style="color:#555">f</span>
+</code></pre></div>
+  </section>
+</article>
 
 <article class="post post--no-margin">
   <h1 class="title title--link">
@@ -76,7 +93,7 @@ taxonomies.</p>
 
     </main>
     <footer class="footer">
-      <span>&copy; 2022 <a href="https://jensadamczak.github.io/notes/">Notes</a></span>
+      <span>&copy; 2023 <a href="https://jensadamczak.github.io/notes/">Notes</a></span>
       <span>&middot;</span>
       <span>
           Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️

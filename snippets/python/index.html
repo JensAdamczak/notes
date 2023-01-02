@@ -28,51 +28,21 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<article class="post">
-  <h1 class="title title--big">Color palettes</h1>
-  <div class="subtitle subtitle--space">January 27, 2021</div>
+<article class="post post--no-margin">
+  <h1 class="title title--link">
+    <a href="https://jensadamczak.github.io/notes/posts/snippet_python_relative_import/">Python: relative import</a>
+  </h1>
   <section>
-    <p><a href="https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/">digitalsynopsis/beautiful-color-paletts</a></p>
-<p>A selection of 36 color palettes for web design or other projects. Useful to
-find matching colors for a consistent overall appearance.</p>
-<p>This website uses the Water Bearer palette (#25).</p>
-<p><span style="color:#5e5656">#5e5656</span>
-<span style="color:#58668b">#58668b</span>
-<span style="color:#76b4bd">#76b4bd</span>
-<span style="color:#bdeaee">#bdeaee</span>
-<span style="color:#ebf4f6">#ebf4f6</span></p>
+    <p>To test relative imports before installing a package, add the source code directory to the path.</p>
+<p>For example, import code from a file functions.py in src/mypackage/</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Python" data-lang="Python"><span style="color:#000;font-weight:bold">import</span> <span style="color:#555">sys</span>
+sys<span style="color:#000;font-weight:bold">.</span>path<span style="color:#000;font-weight:bold">.</span>append(<span style="color:#d14">&#39;/Users/username/project/src/&#39;</span>)
 
+<span style="color:#000;font-weight:bold">import</span> <span style="color:#555">mypackage.functions</span> <span style="color:#000;font-weight:bold">as</span> <span style="color:#555">f</span>
+</code></pre></div>
   </section>
-  <footer class="tag-list">
-    <ul>
-      
-      
-      
-      
-      <li><a class="tag" href="https://jensadamczak.github.io/notes/articles/colors">articles:Colors</a></li>
-      
-      
-      <li><a class="tag" href="https://jensadamczak.github.io/notes/articles/website">articles:Website</a></li>
-      
-      
-      
-      
-      
-      
-      
-    </ul>
-  </footer>
 </article>
+
 
 
     </main>

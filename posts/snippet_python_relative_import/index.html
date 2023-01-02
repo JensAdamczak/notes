@@ -39,20 +39,16 @@
 
 
 <article class="post">
-  <h1 class="title title--big">Mortal Engines</h1>
-  <div class="subtitle subtitle--space">September 7, 2021</div>
+  <h1 class="title title--big">Python: relative import</h1>
+  <div class="subtitle subtitle--space">January 2, 2023</div>
   <section>
-    <p><img src="img/book_cover_mortal_engines.jpg" alt="Mortal Engines"></p>
-<h3 id="author">Author</h3>
-<p>Philip Reeve</p>
-<h3 id="summary">Summary</h3>
-<p>The fictional tale of traveling cities and their residents that battle for survival in a distant future.</p>
-<h3 id="takeaways">Takeaways</h3>
-<p>Devotion to an ideology can be a strong motivator but also a destructive force. The actions of the characters are driven by their dedication to their way of living and their role in a world that leaves little room for exploring alternative ideas.</p>
-<h3 id="quotes">Quotes</h3>
-<p><em>&ldquo;But he mustn&rsquo;t feel sorry for them: it was natural that cities ate towns, just as the towns ate smaller towns and smaller towns snapped up the miserable static settlements. That was Municipal Darwinism, and it was the way the world had worked for hundreds of years, ever since the great engineer Nikolas Quirke had turned London into the first Traction City.&quot;</em></p>
-<p><em>&ldquo;You aren&rsquo;t a hero, and I&rsquo;m not beautfiful, and we probably won&rsquo;t live happily ever after,&rdquo; she said. &ldquo;But we&rsquo;re alive, and together, and we&rsquo;re going to be all right.&quot;</em></p>
+    <p>To test relative imports before installing a package, add the source code directory to the path.</p>
+<p>For example, import code from a file functions.py in src/mypackage/</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Python" data-lang="Python"><span style="color:#000;font-weight:bold">import</span> <span style="color:#555">sys</span>
+sys<span style="color:#000;font-weight:bold">.</span>path<span style="color:#000;font-weight:bold">.</span>append(<span style="color:#d14">&#39;/Users/username/project/src/&#39;</span>)
 
+<span style="color:#000;font-weight:bold">import</span> <span style="color:#555">mypackage.functions</span> <span style="color:#000;font-weight:bold">as</span> <span style="color:#555">f</span>
+</code></pre></div>
   </section>
   <footer class="tag-list">
     <ul>
@@ -62,12 +58,9 @@
       
       
       
-      <li><a class="tag" href="https://jensadamczak.github.io/notes/books/fiction">books:Fiction</a></li>
       
       
-      <li><a class="tag" href="https://jensadamczak.github.io/notes/books/fantasy">books:Fantasy</a></li>
-      
-      
+      <li><a class="tag" href="https://jensadamczak.github.io/notes/snippets/python">snippets:Python</a></li>
       
       
       
