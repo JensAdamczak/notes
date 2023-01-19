@@ -3,13 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jensadamczak.github.io/notes/posts/book_no_rules_rules/</loc>
+    <lastmod>2023-01-08T21:52:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/books/</loc>
+    <lastmod>2023-01-08T21:52:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/books/business/</loc>
+    <lastmod>2023-01-08T21:52:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jensadamczak.github.io/notes/books/management/</loc>
+    <lastmod>2023-01-08T21:52:17-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jensadamczak.github.io/notes/</loc>
-    <lastmod>2023-01-02T10:02:43-08:00</lastmod>
+    <lastmod>2023-01-08T21:52:17-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jensadamczak.github.io/notes/posts/</loc>
-    <lastmod>2023-01-02T10:02:43-08:00</lastmod>
+    <lastmod>2023-01-08T21:52:17-08:00</lastmod>
   </url>
   
   <url>
@@ -29,16 +49,6 @@
   
   <url>
     <loc>https://jensadamczak.github.io/notes/posts/book_noise/</loc>
-    <lastmod>2022-11-19T10:26:27-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/books/</loc>
-    <lastmod>2022-11-19T10:26:27-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/books/business/</loc>
     <lastmod>2022-11-19T10:26:27-08:00</lastmod>
   </url>
   
@@ -79,11 +89,6 @@
   
   <url>
     <loc>https://jensadamczak.github.io/notes/posts/book_creativity_inc/</loc>
-    <lastmod>2022-04-10T13:26:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jensadamczak.github.io/notes/books/management/</loc>
     <lastmod>2022-04-10T13:26:33-07:00</lastmod>
   </url>
   
