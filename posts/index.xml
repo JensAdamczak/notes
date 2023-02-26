@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 21:52:17 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 13:05:32 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book: Creating a Data-Driven Organization</title>
+      <link>https://jensadamczak.github.io/notes/posts/book_data_driven_organization/</link>
+      <pubDate>Sat, 25 Feb 2023 13:05:32 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/book_data_driven_organization/</guid>
+      <description>Author Carl Anderson
+Summary A blueprint to create a data-driven and analytics focused organization.
+Takeaways Data-driven organizations are more successful and generate more value through better decision making.
+For a company to be data-driven it must have the right culture and talent in place to use data effctively along the so called analytics value chain. Sponsorship from high profile positions in the organization is needed to implement a culture that values testing and experimentation to derive insights that can give a competitive advantage.</description>
+    </item>
+    
     <item>
       <title>Book: No rules rules</title>
       <link>https://jensadamczak.github.io/notes/posts/book_no_rules_rules/</link>
