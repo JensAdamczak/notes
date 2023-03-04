@@ -29,6 +29,18 @@
 
 
 <article class="post post--clickable">
+  <h1 class="title">R: rank2score</h1>
+  <section>
+    <p>Converting a ranking into a set of normally distributed scores.
+rank2score &lt;- function(rank, n_total, mn = 0, std = 1, n_tied = 1) { # following the equal area method # http://node101.psych.cornell.edu/Darlington/transfrm.htm mean_rank &lt;- rank / n_tied qnorm(mean_rank / (n_total &#43; 1), mean = mn, sd = std) } ...</p>
+  </section>
+  <div class="subtitle">
+    <time>February 2, 2022</time>
+  </div>
+  <a class="post-link" href="https://jensadamczak.github.io/notes/posts/snippet_r_rank2score/"></a>
+</article>
+
+<article class="post post--clickable">
   <h1 class="title">Book: Extreme ownership</h1>
   <section>
     <p>Author Jocko Willink, Leif Babin
@@ -148,18 +160,6 @@ DNA influences observable characteristics in a probabilitic way. There are only 
     <time>April 10, 2021</time>
   </div>
   <a class="post-link" href="https://jensadamczak.github.io/notes/posts/book_brief_history_everyone/"></a>
-</article>
-
-<article class="post post--clickable">
-  <h1 class="title">Hugo: posts and terms per taxonomy</h1>
-  <section>
-    <p>Counting the number of posts and different terms per taxonomy in Hugo requires looping through all taxonomies.
-{{ range $taxname, $tax := .Site.Taxonomies }} {{ $nposts := len (where $.Site.RegularPages (print &#34;Params&#34; &#34;.&#34; $taxname) &#34;ne&#34; nil) }} {{ $nterms := len $tax }} {{ $posttext := cond (gt $nposts 1) &#34;posts&#34; &#34;post&#34; }} {{ $termtext := cond (gt $nterms 1) &#34;terms&#34; &#34;term&#34; }} {{ $taxname }}: {{ $nposts }} {{ $posttext }} and {{ $nterms }} search {{ $termtext }}....</p>
-  </section>
-  <div class="subtitle">
-    <time>January 30, 2021</time>
-  </div>
-  <a class="post-link" href="https://jensadamczak.github.io/notes/posts/snippet_hugo_taxonomy_count/"></a>
 </article>
 
 
