@@ -2,7 +2,7 @@
 title: "Book: Decision Making Under Deep Uncertainty"
 date: 2023-05-07T11:19:43-07:00
 books: ['Management', 'Science']
-draft: true
+draft: false 
 ---
 
 ![Decision Making Under Deep Uncertainty](img/book_cover_dmdu.jpg)
