@@ -6,11 +6,20 @@
     <description>Recent content in Books on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2023 11:19:43 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2023 21:25:18 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>https://jensadamczak.github.io/notes/books/business/</link>
+      <pubDate>Wed, 29 Nov 2023 21:25:18 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/books/business/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Management</title>
       <link>https://jensadamczak.github.io/notes/books/management/</link>
-      <pubDate>Sun, 07 May 2023 11:19:43 -0700</pubDate>
+      <pubDate>Wed, 29 Nov 2023 21:25:18 -0800</pubDate>
       
       <guid>https://jensadamczak.github.io/notes/books/management/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Sun, 07 May 2023 11:19:43 -0700</pubDate>
       
       <guid>https://jensadamczak.github.io/notes/books/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://jensadamczak.github.io/notes/books/business/</link>
-      <pubDate>Fri, 03 Mar 2023 22:35:56 -0800</pubDate>
-      
-      <guid>https://jensadamczak.github.io/notes/books/business/</guid>
       <description></description>
     </item>
     
