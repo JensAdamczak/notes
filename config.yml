@@ -6,6 +6,7 @@ taxonomies:
   book: books
   article: articles
   snippet: snippets
+  videos: videos
 menu:
   main:
     - identifier: "About"
