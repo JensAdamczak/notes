@@ -6,7 +6,17 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:30:39 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 17:56:34 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blender: Eight ways to organize geometry nodes</title>
+      <link>https://jensadamczak.github.io/notes/posts/video_blender_eight_ways_to_organize_nodes/</link>
+      <pubDate>Sun, 06 Oct 2024 17:56:34 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/video_blender_eight_ways_to_organize_nodes/</guid>
+      <description>Video about Eight ways to organize nodes in BLENDER!.
+ Collapse (0:19): click on node Hide (0:33): ctrl-H Labels and colors (1:01): N Frames (1:46): ctrl-J, ctrl-P to take an item out, X to delete Node groups (2:53): ctrl-G, tab to switch in and out. Custom node groups can be sold as customer shaders. Asset browser (5:27): make node groups available for re-use Reroutes (6:26): shift-A &amp;gt; reroute Noodle curving (7:20): edit &amp;gt; preferences &amp;gt; themes node editor noodle curving Node preview (7:45): add-on to show thumbnails  </description>
+    </item>
+    
     <item>
       <title>Book: Squares and Sharps, Suckers and Sharks</title>
       <link>https://jensadamczak.github.io/notes/posts/book_squares_sharps/</link>
