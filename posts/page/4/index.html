@@ -29,6 +29,18 @@
 
 
 <article class="post post--clickable">
+  <h1 class="title">Hugo: posts and terms per taxonomy</h1>
+  <section>
+    <p>Counting the number of posts and different terms per taxonomy in Hugo requires looping through all taxonomies.
+{{ range $taxname, $tax := .Site.Taxonomies }} {{ $nposts := len (where $.Site.RegularPages (print &#34;Params&#34; &#34;.&#34; $taxname) &#34;ne&#34; nil) }} {{ $nterms := len $tax }} {{ $posttext := cond (gt $nposts 1) &#34;posts&#34; &#34;post&#34; }} {{ $termtext := cond (gt $nterms 1) &#34;terms&#34; &#34;term&#34; }} {{ $taxname }}: {{ $nposts }} {{ $posttext }} and {{ $nterms }} search {{ $termtext }}....</p>
+  </section>
+  <div class="subtitle">
+    <time>January 30, 2021</time>
+  </div>
+  <a class="post-link" href="https://jensadamczak.github.io/notes/posts/snippet_hugo_taxonomy_count/"></a>
+</article>
+
+<article class="post post--clickable">
   <h1 class="title">Color palettes</h1>
   <section>
     <p>digitalsynopsis/beautiful-color-paletts
