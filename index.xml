@@ -6,7 +6,18 @@
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2024 17:39:44 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jan 2025 18:47:11 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book: The primacy of doubt</title>
+      <link>https://jensadamczak.github.io/notes/posts/book_primacy_of_doubt/</link>
+      <pubDate>Tue, 14 Jan 2025 18:47:11 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/book_primacy_of_doubt/</guid>
+      <description>Author Tim Palmer
+Summary An introduction to the geometry of chaos and the important role it plays in understanding scientific phenomena.
+Takeaways The climate and the economy are examples of highly complex non-linear systems. The evolution of these systems follows a fractal geometric pattern along an attractor, i.e. a set of allowed states in a high dimensional state space. Despite the fact that an exact future state is often uncomputable, mathematical models have been successfully developed to characterize possible future behavior in the form of ensembles along the attractor.</description>
+    </item>
+    
     <item>
       <title>Book: The Party</title>
       <link>https://jensadamczak.github.io/notes/posts/book_the_party/</link>
