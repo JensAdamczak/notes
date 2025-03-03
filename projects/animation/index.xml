@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on Notes</title>
+    <link>https://jensadamczak.github.io/notes/projects/animation/</link>
+    <description>Recent content in Animation on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 20:33:30 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/projects/animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: Biomes of the world</title>
+      <link>https://jensadamczak.github.io/notes/posts/project_biomes_of_the_world/</link>
+      <pubDate>Sat, 15 Feb 2025 20:33:30 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/project_biomes_of_the_world/</guid>
+      <description>Purpose A biome is a distinct geographical region with specific climate, vegetation, and animal life. It consists of a biological community that has formed in response to its physical environment and regional climate.
+This project describes the creation of an animation of the distribution of biomes per latitute created in Blender.
+Data preparation Biome description: NASA earth observatory
+Vegetation index data: NASA NDVI
+Average land temperature: NASA LSTD
+The code to create the distribution of biomes per latitude can be found in the biomes-world Github repo.</description>
+    </item>
+    
+  </channel>
+</rss>

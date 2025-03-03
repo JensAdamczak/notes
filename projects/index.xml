@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Notes</title>
+    <link>https://jensadamczak.github.io/notes/projects/</link>
+    <description>Recent content in Projects on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 20:33:30 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animation</title>
+      <link>https://jensadamczak.github.io/notes/projects/animation/</link>
+      <pubDate>Sat, 15 Feb 2025 20:33:30 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/projects/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender</title>
+      <link>https://jensadamczak.github.io/notes/projects/blender/</link>
+      <pubDate>Sat, 15 Feb 2025 20:33:30 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/projects/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://jensadamczak.github.io/notes/projects/science/</link>
+      <pubDate>Sat, 15 Feb 2025 20:33:30 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/projects/science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

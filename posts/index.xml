@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jan 2025 18:47:11 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 20:33:30 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: Biomes of the world</title>
+      <link>https://jensadamczak.github.io/notes/posts/project_biomes_of_the_world/</link>
+      <pubDate>Sat, 15 Feb 2025 20:33:30 -0800</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/project_biomes_of_the_world/</guid>
+      <description>Purpose A biome is a distinct geographical region with specific climate, vegetation, and animal life. It consists of a biological community that has formed in response to its physical environment and regional climate.
+This project describes the creation of an animation of the distribution of biomes per latitute created in Blender.
+Data preparation Biome description: NASA earth observatory
+Vegetation index data: NASA NDVI
+Average land temperature: NASA LSTD
+The code to create the distribution of biomes per latitude can be found in the biomes-world Github repo.</description>
+    </item>
+    
     <item>
       <title>Book: The primacy of doubt</title>
       <link>https://jensadamczak.github.io/notes/posts/book_primacy_of_doubt/</link>

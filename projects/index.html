@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://jensadamczak.github.io/notes/style.css" rel="stylesheet">
+    <link href="https://jensadamczak.github.io/notes/custom.css" rel="stylesheet">
+    <base href="https://jensadamczak.github.io/notes/">
+  </head>
+    <body>
+    <header class="header-bar">
+      <nav class="site-nav">
+        <p class="site-nav__logo"><a href="https://jensadamczak.github.io/notes/">Notes</a></p>
+        <ul class="site-nav__menu">
+          <li>
+            <a href="/notes/about/">About</a>
+          </li>
+          <li>
+            <a href="/notes/archive/">Archive</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="site-main">
+    
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+<article class="post post--no-margin">
+  <h1 class="title title--link">
+    <a href="https://jensadamczak.github.io/notes/posts/project_biomes_of_the_world/">Project: Biomes of the world</a>
+  </h1>
+  <section>
+    <h3 id="purpose">Purpose</h3>
+<p>A <a href="https://en.wikipedia.org/wiki/Biome">biome</a> is a distinct geographical region with specific climate, vegetation, and animal life. It consists of a biological community that has formed in response to its physical environment and regional climate.</p>
+<p>This project describes the creation of an animation of the distribution of biomes per latitute created in Blender.</p>
+<h3 id="data-preparation">Data preparation</h3>
+<p>Biome description: <a href="https://earthobservatory.nasa.gov/biome">NASA earth observatory</a><br>
+Vegetation index data: <a href="https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_NDVI_M">NASA NDVI</a><br>
+Average land temperature: <a href="https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTD_CLIM_M">NASA LSTD</a></p>
+<p>The code to create the distribution of biomes per latitude can be found in the <a href="https://github.com/JensAdamczak/biomes-world/tree/main">biomes-world Github repo</a>.</p>
+<p><img src="img/project_biome/figure_biomes_map.png" alt="biomes map"></p>
+<p><img src="img/project_biome/figure_biomes_per_lat_bin.png" alt="biomes per lat bin"></p>
+<h3 id="animation">Animation</h3>
+<p>The animation is created in Blender using geometry nodes. Each biome is represented by a characteristic object/plant. In the animation the objects are placed together on a platform that changes for each latitude bin according to the relative distribution of biomes per latitude in the prepared data.</p>
+<p><img src="img/project_biome/timeline_1_01_00_17_03.png" alt="biomes overview"></p>
+<p><img src="img/project_biome/biome_render_430.png" alt="biome render"></p>
+
+  </section>
+</article>
+
+
+
+    </main>
+    <footer class="footer">
+      <span>&copy; 2025 <a href="https://jensadamczak.github.io/notes/">Notes</a></span>
+      <span>&middot;</span>
+      <span>
+          Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️
+      </span>
+      <span>&middot;</span>
+      <span>
+          Theme <a href="https://github.com/jensadamczak/hugo-snippets" rel="noopener" target="_blank">Snippets</a>
+      </span>
+    </footer>
+    </body>
+</html>
