@@ -6,7 +6,20 @@
     <description>Recent content in Blender on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 20:33:30 -0800</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/projects/blender/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jun 2025 20:50:51 -0700</lastBuildDate><atom:link href="https://jensadamczak.github.io/notes/projects/blender/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: Toy globe</title>
+      <link>https://jensadamczak.github.io/notes/posts/project_globe/</link>
+      <pubDate>Sun, 29 Jun 2025 20:50:51 -0700</pubDate>
+      
+      <guid>https://jensadamczak.github.io/notes/posts/project_globe/</guid>
+      <description>Goal Visualize NASA true-color data on a toy globe.
+Data preparation Topgraphy: NASA topography data
+NASA blue marble images (360x180px): NASA blue marble
+The code to create a combined table capturing topography (height) and r, g, b, values per latitude and longitude can be found in the toy-globe Github repo.
+Animation The animation is created in Blender using geometry nodes.</description>
+    </item>
+    
     <item>
       <title>Project: Biomes of the world</title>
       <link>https://jensadamczak.github.io/notes/posts/project_biomes_of_the_world/</link>
