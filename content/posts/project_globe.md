@@ -2,7 +2,7 @@
 title: "Project: Toy globe"
 date: 2025-06-29T20:50:51-07:00
 projects: ['Science', 'Animation', 'Blender']
-draft: true
+draft: false 
 ---
 
 ### Goal
