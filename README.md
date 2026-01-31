@@ -27,5 +27,5 @@ git push --all
 cd ..
 ``` 
 
-Check results at https://jensadamczak.github.io/notes/posts/new_file/.
+Check results at https://jensadamczak.github.io/notes/posts/.
 
