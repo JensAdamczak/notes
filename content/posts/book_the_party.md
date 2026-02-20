@@ -1,7 +1,7 @@
 ---
 title: "Book: The Party"
 date: 2024-11-29T17:39:44-08:00
-books: ['History', 'Society']
+books: ['History', 'Politics']
 draft: false
 ---
 
